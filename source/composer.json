@@ -1,0 +1,18 @@
+{
+    "description": "Douglas - Projeto MVC",
+    "authors": [
+        {
+            "name":"Douglas Endrew",
+            "email": "douglasssss282@gmail.com"
+        }
+    ],
+
+    "autoload": {
+        "psr-4": {
+            "App\\":"app",
+            "Core\\":"core"
+        }
+    },
+    
+    "require": {}
+}
